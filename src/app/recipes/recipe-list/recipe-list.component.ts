@@ -11,7 +11,12 @@ export class RecipeListComponent implements OnInit {
     new Recipe(
       'A test Recipe',
       'This is simply test',
-      'https://www.wholesomeyum.com/wp-content/uploads/2016/08/wholesomeyum_taco-salad-2.jpg'
+      'https://3mvrqp3ziq5p3en1rkl04ht1-wpengine.netdna-ssl.com/wp-content/plugins/chef/public/img/logo-chef-horizontal.png'
+    ),
+    new Recipe(
+      'A test Recipe2',
+      'This is simply test2',
+      'https://3mvrqp3ziq5p3en1rkl04ht1-wpengine.netdna-ssl.com/wp-content/plugins/chef/public/img/logo-chef-horizontal.png'
     )
   ];
   constructor() {}
